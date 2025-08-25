@@ -1,1 +1,1 @@
-https://github.com/CulturaEsquel/salon-2025.git
+https://culturaesquel.github.io/salon-2025/
